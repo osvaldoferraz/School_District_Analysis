@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-07T17:51:23.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="0z-uoV25a36D-DfUpU12" version="13.11.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-07T18:02:50.694Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="TiCc5IvkEfwZJlao_0g3" version="13.11.0" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1182" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="2955" dy="1830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -19,22 +19,22 @@
         <mxCell id="5bOR9743OxFzplGHLOWL-13" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Financial and Accountability Management&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1070" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-14" value="Capital" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-14" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Capital&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1370" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-17" value="Workforce" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-17" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Workforce&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1670" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-18" value="Professional Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-18" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Professional Development&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1970" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-19" value="Curriculum and Assessment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-19" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Curriculum and Assessment&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2270" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-20" value="Service and Education Delivery" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-20" value="&lt;font style=&quot;font-size: 15px&quot;&gt;Service and Education Delivery&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2570" y="160" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-21" value="French Language Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-21" value="&lt;font style=&quot;font-size: 15px&quot;&gt;French Language Services&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2870" y="160" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="5bOR9743OxFzplGHLOWL-24" value="&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li&gt;System Mandate and Vision (medium/long-term)&lt;/li&gt;&lt;li&gt;System-Level:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;data analytics, research and reporting&lt;/li&gt;&lt;li&gt;standards, policies and frameworks&lt;/li&gt;&lt;li&gt;communication&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Performance Targets&lt;/li&gt;&lt;li&gt;Leadership and standards for Indigenous and Treaty education&lt;/li&gt;&lt;li&gt;Strategic Plans&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingRight=3;" vertex="1" parent="1">
@@ -46,8 +46,14 @@
         <mxCell id="5bOR9743OxFzplGHLOWL-27" value="&lt;ul&gt;&lt;li style=&quot;font-size: 15px&quot;&gt;Governance framework for&amp;nbsp;&lt;/li&gt;&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li&gt;independent schools&lt;/li&gt;&lt;li&gt;homeschooling&lt;/li&gt;&lt;li&gt;international schools&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Funding requirements, provision, operational advice and compliance with standards for independent schools.&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Oversight of International Schools&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;Standards and notifications requirements&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingRight=3;" vertex="1" parent="1">
           <mxGeometry x="770" y="240" width="260" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="5bOR9743OxFzplGHLOWL-28" value="&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li&gt;Oversight of the summary education budget&lt;/li&gt;&lt;li&gt;Funding design and analysis&lt;/li&gt;&lt;li&gt;Approval of school budgets&lt;/li&gt;&lt;li&gt;Funding disburse&lt;/li&gt;&lt;li&gt;Analysis of financial reports&lt;/li&gt;&lt;li&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingRight=3;" vertex="1" parent="1">
+        <mxCell id="5bOR9743OxFzplGHLOWL-28" value="&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li&gt;Oversight of the summary education budget&lt;/li&gt;&lt;li&gt;Funding design and analysis&lt;/li&gt;&lt;li&gt;Approval of school budgets&lt;/li&gt;&lt;li&gt;Funding disburse&lt;/li&gt;&lt;li&gt;Analysis of financial reports&lt;/li&gt;&lt;li&gt;Ensure adherence to legislative framework&lt;/li&gt;&lt;li&gt;&lt;span&gt;Management and use of personal information&lt;/span&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingRight=3;" vertex="1" parent="1">
           <mxGeometry x="1070" y="240" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5bOR9743OxFzplGHLOWL-29" value="&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li&gt;Capital project targets&lt;/li&gt;&lt;li&gt;Funding of capital projects&lt;/li&gt;&lt;li&gt;Approval of new school builds, additions and renovations&lt;/li&gt;&lt;li&gt;Establish standards for:&lt;/li&gt;&lt;ul&gt;&lt;li&gt;maintenance of capital assets&lt;/li&gt;&lt;li&gt;capital projects&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="240" width="260" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="5bOR9743OxFzplGHLOWL-30" value="&lt;ul style=&quot;font-size: 15px&quot;&gt;&lt;li&gt;Issue collective agreement bargaining mandates&lt;/li&gt;&lt;li&gt;Qualifications for certifications&lt;/li&gt;&lt;li&gt;Issue, suspend and revoke teaching certificates&lt;/li&gt;&lt;li&gt;Maintain certification records&lt;/li&gt;&lt;li&gt;Set standards for teacher performance and assessment&lt;/li&gt;&lt;li&gt;Approve programs for purpose of teacher certification&lt;/li&gt;&lt;/ul&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;perimeterSpacing=0;spacingRight=3;" vertex="1" parent="1">
+          <mxGeometry x="1670" y="240" width="260" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
